@@ -1,5 +1,6 @@
 {
-  "name": "finolog-php",
+  "name": "finolog/finolog-php",
+  "version": "1.0.0",
   "description": "Finolog API client built on top of Guzzle 6",
   "keywords": ["finolog", "finolog-php", "api", "guzzle"],
   "license": "Apache-2.0",

@@ -5,7 +5,7 @@
 ## Installation
 
 ```bash
-$ composer require finolog-php
+$ composer require finolog/finolog-php
 ```
 
 ## Documentation
